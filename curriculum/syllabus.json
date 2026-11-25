@@ -1,0 +1,29 @@
+{
+  "observacao": "Semanas 1 a 12 planejadas. Depois disso o Gemini planeja as próximas automaticamente, subindo o nível. Edite à vontade.",
+  "semanas": [
+    {"semana": 1, "nivel": "A1", "tema": "Apresentações e rotina", "foco": "verbo to be, pronomes, perguntas simples (What / Where / How)",
+     "cenas": ["Se apresentando a um colega novo", "Falando do seu trabalho", "Falando da família", "A rotina da manhã"]},
+    {"semana": 2, "nivel": "A1", "tema": "Situações do dia a dia", "foco": "present simple, I'd like / Can I have",
+     "cenas": ["Pedindo um café na padaria", "No supermercado", "Pedindo informação na rua", "No posto de gasolina"]},
+    {"semana": 3, "nivel": "A1/A2", "tema": "Tempo, números e compromissos", "foco": "horas, datas, preposições at/on/in, números e preços",
+     "cenas": ["Combinando um horário", "Marcando uma reunião por telefone", "Preços e formas de pagamento", "Conversa sobre o tempo e o fim de semana"]},
+    {"semana": 4, "nivel": "A2", "tema": "Contando o que aconteceu", "foco": "past simple (regulares e irregulares mais comuns)",
+     "cenas": ["O que eu fiz ontem", "Como foi o fim de semana", "Uma viagem que fiz", "Um problema no trabalho que foi resolvido"]},
+    {"semana": 5, "nivel": "A2", "tema": "Viagem: chegada", "foco": "perguntas educadas (Could you / Where is / How much)",
+     "cenas": ["Check-in no aeroporto", "Imigração", "Check-in no hotel", "Pegando um táxi ou carro de aplicativo"]},
+    {"semana": 6, "nivel": "A2", "tema": "Restaurante e conversa social", "foco": "would like, some/any, small talk",
+     "cenas": ["Pedindo comida no restaurante", "Reclamando com educação", "Small talk com um desconhecido", "Fazendo e aceitando um convite"]},
+    {"semana": 7, "nivel": "A2/B1", "tema": "Planos e futuro", "foco": "going to, will, present continuous para planos",
+     "cenas": ["Planos para o fim de semana", "A agenda da semana", "Planejando as férias", "Falando de metas profissionais"]},
+    {"semana": 8, "nivel": "A2/B1", "tema": "Problemas e soluções", "foco": "have to, need to, should, descrevendo problemas",
+     "cenas": ["O carro deu problema", "Na farmácia", "Perdi um objeto", "Ligando para o suporte técnico"]},
+    {"semana": 9, "nivel": "B1", "tema": "Trabalho: rotina de equipe", "foco": "present perfect (already / yet / just), dar status",
+     "cenas": ["Reunião rápida de equipe", "Dando o status de um projeto", "Pedindo ajuda a um colega", "Ligação com um fornecedor estrangeiro"]},
+    {"semana": 10, "nivel": "B1", "tema": "Trabalho técnico: laboratório", "foco": "voz passiva simples, comparativos, unidades e medidas",
+     "cenas": ["Apresentando o laboratório a um visitante", "Explicando um teste de desempenho", "Temperatura, pressão e vazão", "Apresentando o resultado de um ensaio"]},
+    {"semana": 11, "nivel": "B1", "tema": "Negociação", "foco": "condicionais (if + will / would), discordar com educação",
+     "cenas": ["Pedindo um orçamento", "Negociando prazo e preço", "Discordando com educação", "Fechando um acordo"]},
+    {"semana": 12, "nivel": "B1", "tema": "Feiras e reuniões internacionais", "foco": "apresentar, responder perguntas, conduzir uma call",
+     "cenas": ["Apresentando um produto numa feira", "Respondendo perguntas de um cliente", "Videoconferência com uma equipe estrangeira", "Conversa livre: revisão das 12 semanas"]}
+  ]
+}

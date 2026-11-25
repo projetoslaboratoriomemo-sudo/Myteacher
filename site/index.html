@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0f1115">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Commute English</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-512.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <header>
+      <div class="marca">Commute <b>English</b></div>
+      <div id="progresso-geral" class="miudo"></div>
+    </header>
+
+    <section id="player" aria-live="polite">
+      <div id="ep-semana" class="etiqueta">Carregando…</div>
+      <h1 id="ep-titulo">&nbsp;</h1>
+      <div id="ep-info" class="miudo"></div>
+
+      <button id="play" class="play" aria-label="Tocar">
+        <svg id="ico-play" viewBox="0 0 24 24"><path d="M8 5.5v13l11-6.5z"/></svg>
+        <svg id="ico-pause" viewBox="0 0 24 24" hidden><path d="M7 5h3.5v14H7zM13.5 5H17v14h-3.5z"/></svg>
+      </button>
+
+      <div class="barra">
+        <input id="seek" type="range" min="0" max="100" step="1" value="0" aria-label="Posição">
+        <div class="tempos"><span id="t-atual">0:00</span><span id="t-total">0:00</span></div>
+      </div>
+
+      <div class="controles">
+        <button id="voltar10" class="redondo" aria-label="Voltar 10 segundos">−10s</button>
+        <button id="velocidade" class="redondo" aria-label="Velocidade">1×</button>
+        <button id="avancar10" class="redondo" aria-label="Avançar 10 segundos">+10s</button>
+      </div>
+
+      <div class="acoes">
+        <button id="anterior">‹ Anterior</button>
+        <button id="feito">✓ Já ouvi</button>
+        <button id="proximo">Próximo ›</button>
+      </div>
+    </section>
+
+    <section id="semanas"></section>
+
+    <footer class="miudo">
+      <p>Dica: dê o play antes de sair com o carro. O áudio continua com a tela bloqueada e responde
+      aos botões do volante.</p>
+      <p><button id="copiar-feed" class="link">Copiar link do podcast</button> para ouvir no
+      Pocket Casts, Apple Podcasts ou outro app que aceite feed RSS.</p>
+    </footer>
+  </main>
+
+  <dialog id="dlg-roteiro">
+    <div class="dlg-topo">
+      <strong id="dlg-titulo"></strong>
+      <button id="dlg-fechar" aria-label="Fechar">✕</button>
+    </div>
+    <p class="aviso">Só leia com o carro parado.</p>
+    <div id="dlg-corpo"></div>
+  </dialog>
+
+  <audio id="audio" preload="metadata"></audio>
+  <script src="app.js"></script>
+</body>
+</html>

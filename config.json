@@ -1,0 +1,29 @@
+{
+  "curso": "Commute English",
+  "aluno": {
+    "nome": "",
+    "nivel_inicial": "iniciante (A1/A2)",
+    "contexto_profissional": "engenheiro que gerencia um laboratório de desenvolvimento termodinâmico de uma fabricante de chopeiras e equipamentos de refrigeração",
+    "interesses": "trabalho com fornecedores estrangeiros, feiras, viagens"
+  },
+  "gemini_model": "gemini-flash-latest",
+  "gemini_model_reserva": "gemini-flash-lite-latest",
+  "semanas_com_audio": 3,
+  "duracao_alvo_min": 15,
+  "tts": {
+    "motor": "edge",
+    "vozes_edge": {
+      "narrador": "pt-BR-AntonioNeural",
+      "professor": "en-US-JennyNeural",
+      "A": "en-US-GuyNeural",
+      "B": "en-US-AriaNeural"
+    },
+    "vozes_piper": {
+      "narrador": "pt_BR-faber-medium",
+      "professor": "en_US-amy-medium",
+      "A": "en_US-ryan-medium",
+      "B": "en_US-lessac-medium"
+    },
+    "velocidade_lenta": "-25%"
+  }
+}

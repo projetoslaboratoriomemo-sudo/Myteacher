@@ -1,0 +1,95 @@
+name: Gerar e publicar episódios
+
+on:
+  schedule:
+    - cron: "17 9 * * 6"   # sábado, 06:17 (Brasília) — gera a próxima semana
+    - cron: "17 9 * * 0"   # domingo, 06:17 — repescagem se o sábado falhar
+  workflow_dispatch:         # botão "Run workflow" para rodar na hora
+  push:
+    branches: [main]
+    paths: ["site/**", "scripts/**", "config.json", "curriculum/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instalar o projeto a partir do zip (só na primeira vez)
+        run: |
+          ZIP=$(ls *.zip 2>/dev/null | head -1 || true)
+          if [ -n "$ZIP" ]; then
+            unzip -q "$ZIP" -d /tmp/ce
+            SRC=$(dirname "$(find /tmp/ce -name config.json | head -1)")
+            rm -rf "$SRC/.github" && cp -a "$SRC"/. ./
+            git rm -q "$ZIP"
+            git config user.name "commute-english-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add -A
+            git commit -m "Instala o projeto a partir do zip"
+            git push
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar ffmpeg e dependências
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+          pip install -r requirements.txt
+
+      - name: Restaurar cache de vozes
+        uses: actions/cache@v4
+        with:
+          path: .tts-cache
+          key: tts-${{ github.run_id }}
+          restore-keys: tts-
+
+      - id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Gerar roteiros novos (Gemini)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/generate_week.py
+
+      - name: Guardar roteiros no repositório
+        run: |
+          git config user.name "commute-english-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "Roteiros gerados em $(date -u +%F)" && git push)
+
+      - name: Gerar áudio
+        run: python scripts/render_audio.py
+
+      - name: Montar site
+        env:
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+        run: python scripts/build_site.py
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
