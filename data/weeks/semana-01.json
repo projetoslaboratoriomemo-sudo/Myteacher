@@ -1,0 +1,939 @@
+{
+  "semana": 1,
+  "nivel": "A1",
+  "tema": "Apresentações e rotina",
+  "foco": "verbo to be, pronomes, perguntas simples (What / Where / How)",
+  "segunda": "2026-11-23",
+  "dias": [
+    {
+      "titulo": "Se apresentando no laboratório",
+      "contexto": "Você está no laboratório de termodinâmica e se apresenta para um engenheiro que acabou de chegar.",
+      "cena": [
+        {
+          "falante": "A",
+          "en": "Hello. I am Carlos.",
+          "pt": "Olá. Eu sou o Carlos."
+        },
+        {
+          "falante": "B",
+          "en": "Hi Carlos. I am John.",
+          "pt": "Oi Carlos. Eu sou o John."
+        },
+        {
+          "falante": "A",
+          "en": "Where are you from, John?",
+          "pt": "De onde você é, John?"
+        },
+        {
+          "falante": "B",
+          "en": "I am from the USA.",
+          "pt": "Eu sou dos Estados Unidos."
+        },
+        {
+          "falante": "A",
+          "en": "What is your job here?",
+          "pt": "Qual é o seu trabalho aqui?"
+        },
+        {
+          "falante": "B",
+          "en": "I am a new engineer.",
+          "pt": "Eu sou um engenheiro novo."
+        },
+        {
+          "falante": "A",
+          "en": "Ah, nice! How is the lab?",
+          "pt": "Ah, legal! Como está o laboratório?"
+        },
+        {
+          "falante": "B",
+          "en": "It is very big and cold.",
+          "pt": "Ele é muito grande e frio."
+        },
+        {
+          "falante": "A",
+          "en": "Yes, it is a cooling lab.",
+          "pt": "Sim, é um laboratório de refrigeração."
+        },
+        {
+          "falante": "B",
+          "en": "Perfect for draft beer systems.",
+          "pt": "Perfeito para sistemas de chopeiras."
+        }
+      ],
+      "frases": [
+        {
+          "en": "I am Carlos.",
+          "pt": "Eu sou o Carlos.",
+          "variacoes": [
+            {
+              "en": "I am John.",
+              "pt": "Eu sou o John."
+            },
+            {
+              "en": "I am an engineer.",
+              "pt": "Eu sou um engenheiro."
+            }
+          ]
+        },
+        {
+          "en": "Where are you from?",
+          "pt": "De onde você é?",
+          "variacoes": [
+            {
+              "en": "Where is the lab?",
+              "pt": "Onde fica o laboratório?"
+            },
+            {
+              "en": "Where are we now?",
+              "pt": "Onde nós estamos agora?"
+            }
+          ]
+        },
+        {
+          "en": "I am from the USA.",
+          "pt": "Eu sou dos Estados Unidos.",
+          "variacoes": [
+            {
+              "en": "I am from Brazil.",
+              "pt": "Eu sou do Brasil."
+            },
+            {
+              "en": "I am from Germany.",
+              "pt": "Eu sou da Alemanha."
+            }
+          ]
+        },
+        {
+          "en": "What is your job?",
+          "pt": "Qual é o seu trabalho?",
+          "variacoes": [
+            {
+              "en": "What is your name?",
+              "pt": "Qual é o seu nome?"
+            },
+            {
+              "en": "What is this part?",
+              "pt": "O que é esta peça?"
+            }
+          ]
+        },
+        {
+          "en": "I am a new engineer.",
+          "pt": "Eu sou um engenheiro novo.",
+          "variacoes": [
+            {
+              "en": "You are a new engineer.",
+              "pt": "Você é um engenheiro novo."
+            },
+            {
+              "en": "I am a supplier here.",
+              "pt": "Eu sou um fornecedor aqui."
+            }
+          ]
+        },
+        {
+          "en": "How is the lab?",
+          "pt": "Como está o laboratório?",
+          "variacoes": [
+            {
+              "en": "How is the draft beer?",
+              "pt": "Como está o chopp?"
+            },
+            {
+              "en": "How is the project?",
+              "pt": "Como está o projeto?"
+            }
+          ]
+        },
+        {
+          "en": "It is very big.",
+          "pt": "Ele é muito grande.",
+          "variacoes": [
+            {
+              "en": "It is very cold.",
+              "pt": "Ele é muito frio."
+            },
+            {
+              "en": "It is very good.",
+              "pt": "Está muito bom."
+            }
+          ]
+        },
+        {
+          "en": "It is a cooling lab.",
+          "pt": "É um laboratório de refrigeração.",
+          "variacoes": [
+            {
+              "en": "It is a big factory.",
+              "pt": "É uma fábrica grande."
+            },
+            {
+              "en": "It is a new machine.",
+              "pt": "É uma máquina nova."
+            }
+          ]
+        },
+        {
+          "en": "Who are you?",
+          "pt": "Quem é você?",
+          "variacoes": [
+            {
+              "en": "Who is he?",
+              "pt": "Quem é ele?"
+            },
+            {
+              "en": "Who is she?",
+              "pt": "Quem é ela?"
+            }
+          ]
+        },
+        {
+          "en": "Nice to meet you.",
+          "pt": "Prazer em conhecer você.",
+          "variacoes": [
+            {
+              "en": "Nice to see you.",
+              "pt": "Bom ver você."
+            },
+            {
+              "en": "Good to talk to you.",
+              "pt": "Bom falar com você."
+            }
+          ]
+        }
+      ],
+      "pergunta_volta": {
+        "pt": "Como você diria 'De onde você é?' para um fornecedor estrangeiro?",
+        "en_modelo": "Where are you from?"
+      },
+      "desafio": [
+        {
+          "en": "What is your name?",
+          "pt": "Qual é o seu nome?",
+          "en_modelo": "My name is Carlos."
+        },
+        {
+          "en": "Where are you from?",
+          "pt": "De onde você é?",
+          "en_modelo": "I am from Brazil."
+        },
+        {
+          "en": "What is your job?",
+          "pt": "Qual é o seu trabalho?",
+          "en_modelo": "I am a thermodynamic engineer."
+        },
+        {
+          "en": "How is the laboratory today?",
+          "pt": "Como está o laboratório hoje?",
+          "en_modelo": "It is very cold and busy."
+        }
+      ],
+      "dia": 1
+    },
+    {
+      "titulo": "Falando do seu trabalho",
+      "contexto": "Você está na feira internacional conversando com um fornecedor de peças para refrigeração.",
+      "cena": [
+        {
+          "falante": "A",
+          "en": "What is your role?",
+          "pt": "Qual é o seu cargo?"
+        },
+        {
+          "falante": "B",
+          "en": "I am the engineering manager.",
+          "pt": "Eu sou o gerente de engenharia."
+        },
+        {
+          "falante": "A",
+          "en": "Where is your laboratory?",
+          "pt": "Onde fica o seu laboratório?"
+        },
+        {
+          "falante": "B",
+          "en": "It is in Brazil.",
+          "pt": "Fica no Brasil."
+        },
+        {
+          "falante": "A",
+          "en": "How is the new team?",
+          "pt": "Como está a nova equipe?"
+        },
+        {
+          "falante": "B",
+          "en": "They are very smart.",
+          "pt": "Eles são muito inteligentes."
+        },
+        {
+          "falante": "A",
+          "en": "Is the office big?",
+          "pt": "O escritório é grande?"
+        },
+        {
+          "falante": "B",
+          "en": "Yes, it is very modern.",
+          "pt": "Sim, ele é muito moderno."
+        },
+        {
+          "falante": "A",
+          "en": "What are these parts?",
+          "pt": "O que são estas peças?"
+        },
+        {
+          "falante": "B",
+          "en": "They are for the beer coolers.",
+          "pt": "Elas são para as chopeiras."
+        },
+        {
+          "falante": "A",
+          "en": "Where are the suppliers?",
+          "pt": "Onde estão os fornecedores?"
+        },
+        {
+          "falante": "B",
+          "en": "They are outside.",
+          "pt": "Eles estão lá fora."
+        }
+      ],
+      "frases": [
+        {
+          "en": "What is your role?",
+          "pt": "Qual é o seu cargo?",
+          "variacoes": [
+            {
+              "en": "What is your title?",
+              "pt": "Qual é o seu título?"
+            },
+            {
+              "en": "What is your position?",
+              "pt": "Qual é a sua posição?"
+            }
+          ]
+        },
+        {
+          "en": "I am the engineering manager.",
+          "pt": "Eu sou o gerente de engenharia.",
+          "variacoes": [
+            {
+              "en": "I am the project leader.",
+              "pt": "Eu sou o líder de projetos."
+            },
+            {
+              "en": "I am the technical director.",
+              "pt": "Eu sou o diretor técnico."
+            }
+          ]
+        },
+        {
+          "en": "Where is your laboratory?",
+          "pt": "Onde fica o seu laboratório?",
+          "variacoes": [
+            {
+              "en": "Where is your office?",
+              "pt": "Onde fica o seu escritório?"
+            },
+            {
+              "en": "Where is your factory?",
+              "pt": "Onde fica sua fábrica?"
+            }
+          ]
+        },
+        {
+          "en": "It is in Brazil.",
+          "pt": "Fica no Brasil.",
+          "variacoes": [
+            {
+              "en": "It is in the USA.",
+              "pt": "Fica nos Estados Unidos."
+            },
+            {
+              "en": "It is in Germany.",
+              "pt": "Fica na Alemanha."
+            }
+          ]
+        },
+        {
+          "en": "How is the new team?",
+          "pt": "Como está a nova equipe?",
+          "variacoes": [
+            {
+              "en": "How is the project?",
+              "pt": "Como está o projeto?"
+            },
+            {
+              "en": "How is the system?",
+              "pt": "Como está o sistema?"
+            }
+          ]
+        },
+        {
+          "en": "They are very smart.",
+          "pt": "Eles são muito inteligentes.",
+          "variacoes": [
+            {
+              "en": "They are very fast.",
+              "pt": "Eles são muito rápidos."
+            },
+            {
+              "en": "They are very good.",
+              "pt": "Eles são muito bons."
+            }
+          ]
+        },
+        {
+          "en": "Is the office big?",
+          "pt": "O escritório é grande?",
+          "variacoes": [
+            {
+              "en": "Is the lab big?",
+              "pt": "O laboratório é grande?"
+            },
+            {
+              "en": "Is the factory big?",
+              "pt": "A fábrica é grande?"
+            }
+          ]
+        },
+        {
+          "en": "Yes, it is very modern.",
+          "pt": "Sim, ele é muito moderno.",
+          "variacoes": [
+            {
+              "en": "Yes, it is very clean.",
+              "pt": "Sim, ele é muito limpo."
+            },
+            {
+              "en": "Yes, it is very cold.",
+              "pt": "Sim, ele é muito frio."
+            }
+          ]
+        },
+        {
+          "en": "What are these parts?",
+          "pt": "O que são estas peças?",
+          "variacoes": [
+            {
+              "en": "What are these tools?",
+              "pt": "O que são estas ferramentas?"
+            },
+            {
+              "en": "What are these valves?",
+              "pt": "O que são estas válvulas?"
+            }
+          ]
+        },
+        {
+          "en": "They are for the beer coolers.",
+          "pt": "Elas são para as chopeiras.",
+          "variacoes": [
+            {
+              "en": "They are for the systems.",
+              "pt": "Elas são para os sistemas."
+            },
+            {
+              "en": "They are for the equipment.",
+              "pt": "Elas são para o equipamento."
+            }
+          ]
+        }
+      ],
+      "pergunta_volta": {
+        "pt": "Como você diria em inglês: Onde fica o seu laboratório?",
+        "en_modelo": "Where is your laboratory?"
+      },
+      "desafio": [
+        {
+          "en": "What is your role in the company?",
+          "pt": "Qual é o seu papel na empresa?",
+          "en_modelo": "I am the engineering manager."
+        },
+        {
+          "en": "Where is your lab?",
+          "pt": "Onde fica o seu laboratório?",
+          "en_modelo": "It is in Brazil."
+        },
+        {
+          "en": "How are the beer coolers?",
+          "pt": "Como estão as chopeiras?",
+          "en_modelo": "They are very good."
+        },
+        {
+          "en": "Is your office modern?",
+          "pt": "O seu escritório é moderno?",
+          "en_modelo": "Yes, it is very modern."
+        }
+      ],
+      "dia": 2
+    },
+    {
+      "titulo": "Falando da família",
+      "contexto": "Carlos conversa com um fornecedor estrangeiro sobre a família durante o almoço da feira.",
+      "cena": [
+        {
+          "falante": "A",
+          "en": "Who is she?",
+          "pt": "Quem é ela?"
+        },
+        {
+          "falante": "B",
+          "en": "She is my wife.",
+          "pt": "Ela é minha esposa."
+        },
+        {
+          "falante": "A",
+          "en": "What is her name?",
+          "pt": "Qual é o nome dela?"
+        },
+        {
+          "falante": "B",
+          "en": "Her name is Ana.",
+          "pt": "O nome dela é Ana."
+        },
+        {
+          "falante": "A",
+          "en": "Is she an engineer too?",
+          "pt": "Ela é engenheira também?"
+        },
+        {
+          "falante": "B",
+          "en": "No, she is a designer.",
+          "pt": "Não, ela é designer."
+        },
+        {
+          "falante": "A",
+          "en": "Where is she now?",
+          "pt": "Onde ela está agora?"
+        },
+        {
+          "falante": "B",
+          "en": "She is in Brazil.",
+          "pt": "Ela está no Brasil."
+        },
+        {
+          "falante": "A",
+          "en": "Do you have children?",
+          "pt": "Você tem filhos?"
+        },
+        {
+          "falante": "B",
+          "en": "Yes, I have one son.",
+          "pt": "Sim, eu tenho um filho."
+        },
+        {
+          "falante": "A",
+          "en": "How old is he?",
+          "pt": "Quantos anos ele tem?"
+        },
+        {
+          "falante": "B",
+          "en": "He is five years old.",
+          "pt": "Ele tem cinco anos de idade."
+        }
+      ],
+      "frases": [
+        {
+          "en": "Who is she?",
+          "pt": "Quem é ela?",
+          "variacoes": [
+            {
+              "en": "Who is he?",
+              "pt": "Quem é ele?"
+            },
+            {
+              "en": "Who is that?",
+              "pt": "Quem é aquele?"
+            }
+          ]
+        },
+        {
+          "en": "She is my wife.",
+          "pt": "Ela é minha esposa.",
+          "variacoes": [
+            {
+              "en": "He is my husband.",
+              "pt": "Ele é meu marido."
+            },
+            {
+              "en": "She is my sister.",
+              "pt": "Ela é minha irmã."
+            }
+          ]
+        },
+        {
+          "en": "What is her name?",
+          "pt": "Qual é o nome dela?",
+          "variacoes": [
+            {
+              "en": "What is his name?",
+              "pt": "Qual é o nome dele?"
+            },
+            {
+              "en": "What is your name?",
+              "pt": "Qual é o seu nome?"
+            }
+          ]
+        },
+        {
+          "en": "Her name is Ana.",
+          "pt": "O nome dela é Ana.",
+          "variacoes": [
+            {
+              "en": "His name is John.",
+              "pt": "O nome dele é John."
+            },
+            {
+              "en": "My name is Carlos.",
+              "pt": "Meu nome é Carlos."
+            }
+          ]
+        },
+        {
+          "en": "Is she an engineer?",
+          "pt": "Ela é engenheira?",
+          "variacoes": [
+            {
+              "en": "Is he an engineer?",
+              "pt": "Ele é engenheiro?"
+            },
+            {
+              "en": "Is she a designer?",
+              "pt": "Ela é designer?"
+            }
+          ]
+        },
+        {
+          "en": "No, she is a designer.",
+          "pt": "Não, ela é designer.",
+          "variacoes": [
+            {
+              "en": "No, he is a manager.",
+              "pt": "Não, ele é gerente."
+            },
+            {
+              "en": "Yes, she is an engineer.",
+              "pt": "Sim, ela é engenheira."
+            }
+          ]
+        },
+        {
+          "en": "Where is she now?",
+          "pt": "Onde ela está agora?",
+          "variacoes": [
+            {
+              "en": "Where is he now?",
+              "pt": "Onde ele está agora?"
+            },
+            {
+              "en": "Where are you now?",
+              "pt": "Onde você está agora?"
+            }
+          ]
+        },
+        {
+          "en": "She is in Brazil.",
+          "pt": "Ela está no Brasil.",
+          "variacoes": [
+            {
+              "en": "He is in the lab.",
+              "pt": "Ele está no laboratório."
+            },
+            {
+              "en": "They are in the office.",
+              "pt": "Eles estão no escritório."
+            }
+          ]
+        },
+        {
+          "en": "How old is he?",
+          "pt": "Quantos anos ele tem?",
+          "variacoes": [
+            {
+              "en": "How old is she?",
+              "pt": "Quantos anos ela tem?"
+            },
+            {
+              "en": "How old are you?",
+              "pt": "Quantos anos você tem?"
+            }
+          ]
+        },
+        {
+          "en": "He is five years old.",
+          "pt": "Ele tem cinco anos de idade.",
+          "variacoes": [
+            {
+              "en": "She is ten years old.",
+              "pt": "Ela tem dez anos de idade."
+            },
+            {
+              "en": "I am forty years old.",
+              "pt": "Eu tenho quarenta anos de idade."
+            }
+          ]
+        }
+      ],
+      "pergunta_volta": {
+        "pt": "Como você diria que a sua esposa é designer e está no Brasil?",
+        "en_modelo": "My wife is a designer and she is in Brazil."
+      },
+      "desafio": [
+        {
+          "en": "What is your wife's name?",
+          "pt": "Qual é o nome da sua esposa?",
+          "en_modelo": "Her name is Maria."
+        },
+        {
+          "en": "Is she an engineer?",
+          "pt": "Ela é engenheira?",
+          "en_modelo": "No, she is a teacher."
+        },
+        {
+          "en": "Where is your family now?",
+          "pt": "Onde está sua família agora?",
+          "en_modelo": "They are at home in Brazil."
+        },
+        {
+          "en": "How many children do you have?",
+          "pt": "Quantos filhos você tem?",
+          "en_modelo": "I have one son and one daughter."
+        }
+      ],
+      "dia": 3
+    },
+    {
+      "titulo": "A rotina da manhã",
+      "contexto": "Carlos chega cedo ao laboratório de refrigeração e fala sobre sua rotina matinal com um colega.",
+      "cena": [
+        {
+          "falante": "A",
+          "en": "Good morning, Carlos.",
+          "pt": "Bom dia, Carlos."
+        },
+        {
+          "falante": "B",
+          "en": "Good morning. I am ready.",
+          "pt": "Bom dia. Eu estou pronto."
+        },
+        {
+          "falante": "A",
+          "en": "What is the time now?",
+          "pt": "Que horas são agora?"
+        },
+        {
+          "falante": "B",
+          "en": "It is seven in the morning.",
+          "pt": "São sete da manhã."
+        },
+        {
+          "falante": "A",
+          "en": "Where is your coffee?",
+          "pt": "Onde está o seu café?"
+        },
+        {
+          "falante": "B",
+          "en": "It is on my desk.",
+          "pt": "Ele está na minha mesa."
+        },
+        {
+          "falante": "A",
+          "en": "How is the temperature today?",
+          "pt": "Como está a temperatura hoje?"
+        },
+        {
+          "falante": "B",
+          "en": "It is very cold outside.",
+          "pt": "Está muito frio lá fora."
+        },
+        {
+          "falante": "A",
+          "en": "Are you busy today?",
+          "pt": "Você está ocupado hoje?"
+        },
+        {
+          "falante": "B",
+          "en": "Yes, I am very busy.",
+          "pt": "Sim, eu estou muito ocupado."
+        },
+        {
+          "falante": "A",
+          "en": "What is on your schedule?",
+          "pt": "O que está na sua agenda?"
+        },
+        {
+          "falante": "B",
+          "en": "A test for the new beer cooler.",
+          "pt": "Um teste para a nova chopeira."
+        }
+      ],
+      "frases": [
+        {
+          "en": "I am ready.",
+          "pt": "Eu estou pronto.",
+          "variacoes": [
+            {
+              "en": "I am busy.",
+              "pt": "Eu estou ocupado."
+            },
+            {
+              "en": "I am early.",
+              "pt": "Eu estou cedo."
+            }
+          ]
+        },
+        {
+          "en": "What is the time now?",
+          "pt": "Que horas são agora?",
+          "variacoes": [
+            {
+              "en": "What is the day today?",
+              "pt": "Que dia é hoje?"
+            },
+            {
+              "en": "What is your name?",
+              "pt": "Qual é o seu nome?"
+            }
+          ]
+        },
+        {
+          "en": "It is seven in the morning.",
+          "pt": "São sete da manhã.",
+          "variacoes": [
+            {
+              "en": "It is cold today.",
+              "pt": "Está frio hoje."
+            },
+            {
+              "en": "It is very late.",
+              "pt": "Está muito tarde."
+            }
+          ]
+        },
+        {
+          "en": "Where is your coffee?",
+          "pt": "Onde está o seu café?",
+          "variacoes": [
+            {
+              "en": "Where is your laptop?",
+              "pt": "Onde está o seu notebook?"
+            },
+            {
+              "en": "Where is your manager?",
+              "pt": "Onde está o seu gerente?"
+            }
+          ]
+        },
+        {
+          "en": "It is on my desk.",
+          "pt": "Ele está na minha mesa.",
+          "variacoes": [
+            {
+              "en": "It is in the lab.",
+              "pt": "Ele está no laboratório."
+            },
+            {
+              "en": "It is on the table.",
+              "pt": "Ele está na mesa."
+            }
+          ]
+        },
+        {
+          "en": "How is the temperature today?",
+          "pt": "Como está a temperatura hoje?",
+          "variacoes": [
+            {
+              "en": "How is the weather today?",
+              "pt": "Como está o clima hoje?"
+            },
+            {
+              "en": "How is the project today?",
+              "pt": "Como está o projeto hoje?"
+            }
+          ]
+        },
+        {
+          "en": "It is very cold outside.",
+          "pt": "Está muito frio lá fora.",
+          "variacoes": [
+            {
+              "en": "It is very hot outside.",
+              "pt": "Está muito calor lá fora."
+            },
+            {
+              "en": "It is very dark outside.",
+              "pt": "Está muito escuro lá fora."
+            }
+          ]
+        },
+        {
+          "en": "Are you busy today?",
+          "pt": "Você está ocupado hoje?",
+          "variacoes": [
+            {
+              "en": "Are you ready today?",
+              "pt": "Você está pronto hoje?"
+            },
+            {
+              "en": "Are you cold today?",
+              "pt": "Você está com frio hoje?"
+            }
+          ]
+        },
+        {
+          "en": "Yes, I am very busy.",
+          "pt": "Sim, eu estou muito ocupado.",
+          "variacoes": [
+            {
+              "en": "Yes, I am very ready.",
+              "pt": "Sim, eu estou muito pronto."
+            },
+            {
+              "en": "Yes, I am very tired.",
+              "pt": "Sim, eu estou muito cansado."
+            }
+          ]
+        },
+        {
+          "en": "What is on your schedule?",
+          "pt": "O que está na sua agenda?",
+          "variacoes": [
+            {
+              "en": "What is on your desk?",
+              "pt": "O que está na sua mesa?"
+            },
+            {
+              "en": "What is in your hand?",
+              "pt": "O que está na sua mão?"
+            }
+          ]
+        }
+      ],
+      "pergunta_volta": {
+        "pt": "Como você diria que o laboratório de refrigeração está muito frio hoje?",
+        "en_modelo": "The cooling lab is very cold today."
+      },
+      "desafio": [
+        {
+          "en": "What time is it in your car?",
+          "pt": "Que horas são no seu carro?",
+          "en_modelo": "It is seven thirty in the morning."
+        },
+        {
+          "en": "Where is your coffee now?",
+          "pt": "Onde está seu café agora?",
+          "en_modelo": "My coffee is in my hand."
+        },
+        {
+          "en": "Are you busy at the laboratory today?",
+          "pt": "Você está ocupado no laboratório hoje?",
+          "en_modelo": "Yes, I am very busy today."
+        },
+        {
+          "en": "How is the temperature in the beer cooler test?",
+          "pt": "Como está a temperatura no teste da chopeira?",
+          "en_modelo": "It is very cold for the test."
+        }
+      ],
+      "dia": 4
+    }
+  ]
+}
