@@ -1,0 +1,949 @@
+{
+  "semana": 2,
+  "nivel": "A1",
+  "tema": "Situações do dia a dia",
+  "foco": "present simple, I'd like / Can I have",
+  "segunda": "2026-11-30",
+  "dias": [
+    {
+      "titulo": "Pedindo um café na padaria",
+      "contexto": "Você está dirigindo para o laboratório e para em uma padaria no caminho para pedir um café.",
+      "cena": [
+        {
+          "falante": "A",
+          "en": "Good morning.",
+          "pt": "Bom dia."
+        },
+        {
+          "falante": "B",
+          "en": "Good morning! What would you like?",
+          "pt": "Bom dia! O que você gostaria?"
+        },
+        {
+          "falante": "A",
+          "en": "I'd like a black coffee, please.",
+          "pt": "Eu gostaria de um café preto, por favor."
+        },
+        {
+          "falante": "B",
+          "en": "Sure. Would you like sugar?",
+          "pt": "Claro. Você gostaria de açúcar?"
+        },
+        {
+          "falante": "A",
+          "en": "No sugar, thanks.",
+          "pt": "Sem açúcar, obrigado."
+        },
+        {
+          "falante": "B",
+          "en": "Can I have your name, please?",
+          "pt": "Posso saber seu nome, por favor?"
+        },
+        {
+          "falante": "A",
+          "en": "My name is Carlos.",
+          "pt": "Meu nome é Carlos."
+        },
+        {
+          "falante": "B",
+          "en": "Here is your coffee, Carlos.",
+          "pt": "Aqui está o seu café, Carlos."
+        },
+        {
+          "falante": "A",
+          "en": "How much is it?",
+          "pt": "Quanto custa?"
+        },
+        {
+          "falante": "B",
+          "en": "It is four dollars.",
+          "pt": "São quatro dólares."
+        },
+        {
+          "falante": "A",
+          "en": "Here you go.",
+          "pt": "Aqui está."
+        },
+        {
+          "falante": "B",
+          "en": "Thank you. Have a good day.",
+          "pt": "Obrigado. Tenha um bom dia."
+        }
+      ],
+      "frases": [
+        {
+          "en": "I'd like a black coffee, please.",
+          "pt": "Eu gostaria de um café preto, por favor.",
+          "variacoes": [
+            {
+              "en": "I'd like a cappuccino, please.",
+              "pt": "Eu gostaria de um cappuccino, por favor."
+            },
+            {
+              "en": "I'd like a bottle of water, please.",
+              "pt": "Eu gostaria de uma garrafa de água, por favor."
+            }
+          ]
+        },
+        {
+          "en": "Can I have a glass of water?",
+          "pt": "Posso ter um copo de água?",
+          "variacoes": [
+            {
+              "en": "Can I have a menu, please?",
+              "pt": "Posso ter um cardápio, por favor?"
+            },
+            {
+              "en": "Can I have the check, please?",
+              "pt": "Posso ter a conta, por favor?"
+            }
+          ]
+        },
+        {
+          "en": "What would you like?",
+          "pt": "O que você gostaria?",
+          "variacoes": [
+            {
+              "en": "What would you like to drink?",
+              "pt": "O que você gostaria de beber?"
+            },
+            {
+              "en": "What would you like to eat?",
+              "pt": "O que você gostaria de comer?"
+            }
+          ]
+        },
+        {
+          "en": "Would you like sugar?",
+          "pt": "Você gostaria de açúcar?",
+          "variacoes": [
+            {
+              "en": "Would you like ice?",
+              "pt": "Você gostaria de gelo?"
+            },
+            {
+              "en": "Would you like milk?",
+              "pt": "Você gostaria de leite?"
+            }
+          ]
+        },
+        {
+          "en": "No sugar, thanks.",
+          "pt": "Sem açúcar, obrigado.",
+          "variacoes": [
+            {
+              "en": "No ice, thanks.",
+              "pt": "Sem gelo, obrigado."
+            },
+            {
+              "en": "No milk, thanks.",
+              "pt": "Sem leite, obrigado."
+            }
+          ]
+        },
+        {
+          "en": "How much is it?",
+          "pt": "Quanto custa?",
+          "variacoes": [
+            {
+              "en": "How much is the coffee?",
+              "pt": "Quanto custa o café?"
+            },
+            {
+              "en": "How much is this part?",
+              "pt": "Quanto custa esta peça?"
+            }
+          ]
+        },
+        {
+          "en": "It is four dollars.",
+          "pt": "São quatro dólares.",
+          "variacoes": [
+            {
+              "en": "It is five dollars.",
+              "pt": "São cinco dólares."
+            },
+            {
+              "en": "It is ten dollars.",
+              "pt": "São dez dólares."
+            }
+          ]
+        },
+        {
+          "en": "Here you go.",
+          "pt": "Aqui está.",
+          "variacoes": [
+            {
+              "en": "Here is your coffee.",
+              "pt": "Aqui está o seu café."
+            },
+            {
+              "en": "Here is my card.",
+              "pt": "Aqui está o meu cartão."
+            }
+          ]
+        },
+        {
+          "en": "Have a good day.",
+          "pt": "Tenha um bom dia.",
+          "variacoes": [
+            {
+              "en": "Have a good trip.",
+              "pt": "Tenha uma boa viagem."
+            },
+            {
+              "en": "Have a good meeting.",
+              "pt": "Tenha uma boa reunião."
+            }
+          ]
+        },
+        {
+          "en": "I need a coffee every morning.",
+          "pt": "Eu preciso de um café toda manhã.",
+          "variacoes": [
+            {
+              "en": "I need a meeting every Monday.",
+              "pt": "Eu preciso de uma reunião toda segunda-feira."
+            },
+            {
+              "en": "I need a report every week.",
+              "pt": "Eu preciso de um relatório toda semana."
+            }
+          ]
+        }
+      ],
+      "pergunta_volta": {
+        "pt": "Como você diria em inglês: 'Eu gostaria de um café com leite, por favor'?",
+        "en_modelo": "I'd like a coffee with milk, please."
+      },
+      "desafio": [
+        {
+          "en": "What would you like to drink right now?",
+          "pt": "O que você gostaria de beber agora mesmo?",
+          "en_modelo": "I'd like a cold water, please."
+        },
+        {
+          "en": "Do you like sugar in your coffee?",
+          "pt": "Você gosta de açúcar no seu café?",
+          "en_modelo": "No, I like black coffee."
+        },
+        {
+          "en": "Can you ask for a table for two?",
+          "pt": "Você pode pedir uma mesa para dois?",
+          "en_modelo": "Can I have a table for two, please?"
+        },
+        {
+          "en": "What do you usually drink in the morning?",
+          "pt": "O que você geralmente bebe de manhã?",
+          "en_modelo": "I drink a strong coffee every morning."
+        }
+      ],
+      "dia": 1
+    },
+    {
+      "titulo": "No supermercado",
+      "contexto": "Carlos está em viagem a trabalho e faz compras rápidas em um supermercado local.",
+      "cena": [
+        {
+          "falante": "A",
+          "en": "Excuse me, where do you keep the cold drinks?",
+          "pt": "Com licença, onde vocês deixam as bebidas geladas?"
+        },
+        {
+          "falante": "B",
+          "en": "They are in aisle four, inside the refrigerators.",
+          "pt": "Ficam no corredor quatro, dentro dos refrigeradores."
+        },
+        {
+          "falante": "A",
+          "en": "Great! I'd like to try some local beer.",
+          "pt": "Ótimo! Eu gostaria de experimentar uma cerveja local."
+        },
+        {
+          "falante": "B",
+          "en": "We have many craft beers on sale today.",
+          "pt": "Temos muitas cervejas artesanais em promoção hoje."
+        },
+        {
+          "falante": "A",
+          "en": "Do you have cold sparkling water too?",
+          "pt": "Você tem água com gás gelada também?"
+        },
+        {
+          "falante": "B",
+          "en": "Yes, we do. Right next to the sodas.",
+          "pt": "Sim, temos. Bem ao lado dos refrigerantes."
+        },
+        {
+          "falante": "A",
+          "en": "Perfect, I need fresh fruit as well.",
+          "pt": "Perfeito, preciso de frutas frescas também."
+        },
+        {
+          "falante": "B",
+          "en": "The produce section is near the front entrance.",
+          "pt": "A parte de hortifrúti fica perto da entrada principal."
+        },
+        {
+          "falante": "A",
+          "en": "Thanks! Can I have two paper bags, please?",
+          "pt": "Obrigado! Pode me dar duas sacolas de papel, por favor?"
+        },
+        {
+          "falante": "B",
+          "en": "Sure thing! Do you pay with a credit card?",
+          "pt": "Com certeza! Você vai pagar no cartão de crédito?"
+        },
+        {
+          "falante": "A",
+          "en": "Yes, I always pay with a card.",
+          "pt": "Sim, eu sempre pago no cartão."
+        },
+        {
+          "falante": "B",
+          "en": "Wonderful. Enjoy your stay here!",
+          "pt": "Maravilha. Aproveite sua estadia por aqui!"
+        }
+      ],
+      "frases": [
+        {
+          "en": "Where do you keep the cold drinks?",
+          "pt": "Onde vocês deixam as bebidas geladas?",
+          "variacoes": [
+            {
+              "en": "Where do you keep the fresh milk?",
+              "pt": "Onde vocês deixam o leite fresco?"
+            },
+            {
+              "en": "Where do you keep the ice cream?",
+              "pt": "Onde vocês deixam o sorvete?"
+            }
+          ]
+        },
+        {
+          "en": "They are in aisle four.",
+          "pt": "Eles estão no corredor quatro.",
+          "variacoes": [
+            {
+              "en": "They are in aisle two.",
+              "pt": "Eles estão no corredor dois."
+            },
+            {
+              "en": "They are in aisle seven.",
+              "pt": "Eles estão no corredor sete."
+            }
+          ]
+        },
+        {
+          "en": "I'd like to try some local beer.",
+          "pt": "Eu gostaria de experimentar uma cerveja local.",
+          "variacoes": [
+            {
+              "en": "I'd like to try some local wine.",
+              "pt": "Eu gostaria de experimentar um vinho local."
+            },
+            {
+              "en": "I'd like to try some local cheese.",
+              "pt": "Eu gostaria de experimentar um queijo local."
+            }
+          ]
+        },
+        {
+          "en": "We have many craft beers on sale today.",
+          "pt": "Temos muitas cervejas artesanais em promoção hoje.",
+          "variacoes": [
+            {
+              "en": "We have many cold sodas on sale today.",
+              "pt": "Temos muitos refrigerantes gelados em promoção hoje."
+            },
+            {
+              "en": "We have many snacks on sale today.",
+              "pt": "Temos muitos petiscos em promoção hoje."
+            }
+          ]
+        },
+        {
+          "en": "Do you have cold sparkling water too?",
+          "pt": "Você tem água com gás gelada também?",
+          "variacoes": [
+            {
+              "en": "Do you have cold draft beer too?",
+              "pt": "Você tem chope gelado também?"
+            },
+            {
+              "en": "Do you have cold energy drinks too?",
+              "pt": "Você tem energéticos gelados também?"
+            }
+          ]
+        },
+        {
+          "en": "Yes, we do.",
+          "pt": "Sim, nós temos.",
+          "variacoes": [
+            {
+              "en": "No, we don't.",
+              "pt": "Não, nós não temos."
+            },
+            {
+              "en": "Yes, we have many.",
+              "pt": "Sim, temos muitos."
+            }
+          ]
+        },
+        {
+          "en": "I need fresh fruit as well.",
+          "pt": "Eu preciso de frutas frescas também.",
+          "variacoes": [
+            {
+              "en": "I need hot food as well.",
+              "pt": "Eu preciso de comida quente também."
+            },
+            {
+              "en": "I need drinking water as well.",
+              "pt": "Eu preciso de água potável também."
+            }
+          ]
+        },
+        {
+          "en": "The produce section is near the front entrance.",
+          "pt": "A seção de hortifrúti fica perto da entrada principal.",
+          "variacoes": [
+            {
+              "en": "The bakery section is near the front entrance.",
+              "pt": "A seção de padaria fica perto da entrada principal."
+            },
+            {
+              "en": "The frozen section is near the front entrance.",
+              "pt": "A seção de congelados fica perto da entrada principal."
+            }
+          ]
+        },
+        {
+          "en": "Can I have two paper bags, please?",
+          "pt": "Pode me dar duas sacolas de papel, por favor?",
+          "variacoes": [
+            {
+              "en": "Can I have one plastic bag, please?",
+              "pt": "Pode me dar uma sacola plástica, por favor?"
+            },
+            {
+              "en": "Can I have the receipt, please?",
+              "pt": "Pode me dar o recibo, por favor?"
+            }
+          ]
+        },
+        {
+          "en": "I always pay with a card.",
+          "pt": "Eu sempre pago com cartão.",
+          "variacoes": [
+            {
+              "en": "I always pay with cash.",
+              "pt": "Eu sempre pago em dinheiro."
+            },
+            {
+              "en": "I usually pay with a card.",
+              "pt": "Eu normalmente pago com cartão."
+            }
+          ]
+        }
+      ],
+      "pergunta_volta": {
+        "pt": "Como você diria ao atendente: 'Eu gostaria de uma garrafa de água gelada, por favor'?",
+        "en_modelo": "I'd like a bottle of cold water, please."
+      },
+      "desafio": [
+        {
+          "en": "Do you prefer to buy groceries online or at the store?",
+          "pt": "Você prefere fazer compras pela internet ou na loja física?",
+          "en_modelo": "I prefer to buy groceries at the store."
+        },
+        {
+          "en": "What drinks do you usually buy at the supermarket?",
+          "pt": "Quais bebidas você costuma comprar no supermercado?",
+          "en_modelo": "I usually buy sparkling water and cold beer."
+        },
+        {
+          "en": "Do you usually pay with cash or with a card?",
+          "pt": "Você costuma pagar em dinheiro ou com cartão?",
+          "en_modelo": "I always pay with a credit card."
+        },
+        {
+          "en": "What do you like to buy when you travel abroad?",
+          "pt": "O que você gosta de comprar quando viaja para o exterior?",
+          "en_modelo": "I like to buy local snacks and craft beer."
+        }
+      ],
+      "dia": 2
+    },
+    {
+      "titulo": "Pedindo informação na rua",
+      "contexto": "Você está a caminho de uma feira industrial nos Estados Unidos e pede orientações a um pedestre na rua.",
+      "cena": [
+        {
+          "falante": "A",
+          "en": "Excuse me, I need some directions.",
+          "pt": "Com licença, preciso de uma informação de caminho."
+        },
+        {
+          "falante": "B",
+          "en": "Sure, where do you want to go?",
+          "pt": "Claro, para onde você quer ir?"
+        },
+        {
+          "falante": "A",
+          "en": "I'd like to get to the convention center.",
+          "pt": "Eu gostaria de chegar ao centro de convenções."
+        },
+        {
+          "falante": "B",
+          "en": "Walk straight ahead for two blocks.",
+          "pt": "Siga em frente por dois quarteirões."
+        },
+        {
+          "falante": "A",
+          "en": "Do I turn left at the light?",
+          "pt": "Eu viro à esquerda no semáforo?"
+        },
+        {
+          "falante": "B",
+          "en": "Yes, turn left at the corner.",
+          "pt": "Sim, vire à esquerda na esquina."
+        },
+        {
+          "falante": "A",
+          "en": "Can I have the quickest route on foot?",
+          "pt": "Pode me indicar o caminho mais rápido a pé?"
+        },
+        {
+          "falante": "B",
+          "en": "Take this street, then go past the park.",
+          "pt": "Pegue esta rua e passe pelo parque."
+        },
+        {
+          "falante": "A",
+          "en": "Is the tech expo inside that building?",
+          "pt": "A feira de tecnologia fica naquele prédio?"
+        },
+        {
+          "falante": "B",
+          "en": "Yes, the entrance is right there.",
+          "pt": "Sim, a entrada é bem ali."
+        },
+        {
+          "falante": "A",
+          "en": "Thank you so much for your help.",
+          "pt": "Muito obrigado pela sua ajuda."
+        },
+        {
+          "falante": "B",
+          "en": "You're welcome, have a great visit!",
+          "pt": "De nada, tenha uma ótima visita!"
+        }
+      ],
+      "frases": [
+        {
+          "en": "Excuse me, I need some directions.",
+          "pt": "Com licença, preciso de direções.",
+          "variacoes": [
+            {
+              "en": "Excuse me, I need a map.",
+              "pt": "Com licença, preciso de um mapa."
+            },
+            {
+              "en": "Excuse me, I need some help.",
+              "pt": "Com licença, preciso de ajuda."
+            }
+          ]
+        },
+        {
+          "en": "Where do you want to go?",
+          "pt": "Para onde você quer ir?",
+          "variacoes": [
+            {
+              "en": "Where do you work?",
+              "pt": "Onde você trabalha?"
+            },
+            {
+              "en": "Where do you stay in town?",
+              "pt": "Onde você fica na cidade?"
+            }
+          ]
+        },
+        {
+          "en": "I'd like to get to the convention center.",
+          "pt": "Eu gostaria de chegar ao centro de convenções.",
+          "variacoes": [
+            {
+              "en": "I'd like to find the metro station.",
+              "pt": "Eu gostaria de encontrar a estação de metrô."
+            },
+            {
+              "en": "I'd like to visit the supplier.",
+              "pt": "Eu gostaria de visitar o fornecedor."
+            }
+          ]
+        },
+        {
+          "en": "Walk straight ahead for two blocks.",
+          "pt": "Siga em frente por duas quadras.",
+          "variacoes": [
+            {
+              "en": "Walk straight ahead for ten minutes.",
+              "pt": "Caminhe em frente por dez minutos."
+            },
+            {
+              "en": "Drive straight ahead for one mile.",
+              "pt": "Dirija em frente por uma milha."
+            }
+          ]
+        },
+        {
+          "en": "Do I turn left at the light?",
+          "pt": "Eu viro à esquerda no sinal?",
+          "variacoes": [
+            {
+              "en": "Do I turn right at the corner?",
+              "pt": "Eu viro à direita na esquina?"
+            },
+            {
+              "en": "Do I stop at the red light?",
+              "pt": "Eu paro no sinal vermelho?"
+            }
+          ]
+        },
+        {
+          "en": "Yes, turn left at the corner.",
+          "pt": "Sim, vire à esquerda na esquina.",
+          "variacoes": [
+            {
+              "en": "Yes, turn right after the bank.",
+              "pt": "Sim, vire à direita depois do banco."
+            },
+            {
+              "en": "No, turn left before the hotel.",
+              "pt": "Não, vire à esquerda antes do hotel."
+            }
+          ]
+        },
+        {
+          "en": "Can I have the quickest route on foot?",
+          "pt": "Você pode me dar o caminho mais rápido a pé?",
+          "variacoes": [
+            {
+              "en": "Can I have a map of the area?",
+              "pt": "Pode me dar um mapa da região?"
+            },
+            {
+              "en": "Can I have the address of the venue?",
+              "pt": "Pode me passar o endereço do local?"
+            }
+          ]
+        },
+        {
+          "en": "Is the tech expo inside that building?",
+          "pt": "A feira de tecnologia fica naquele prédio?",
+          "variacoes": [
+            {
+              "en": "Is the refrigeration lab near this street?",
+              "pt": "O laboratório de refrigeração fica perto desta rua?"
+            },
+            {
+              "en": "Is the cooling workshop inside this hall?",
+              "pt": "O workshop de refrigeração fica dentro deste pavilhão?"
+            }
+          ]
+        },
+        {
+          "en": "The entrance is right there.",
+          "pt": "A entrada fica bem ali.",
+          "variacoes": [
+            {
+              "en": "The bus stop is right there.",
+              "pt": "O ponto de ônibus fica bem ali."
+            },
+            {
+              "en": "The main lobby is right there.",
+              "pt": "O saguão principal fica bem ali."
+            }
+          ]
+        },
+        {
+          "en": "Thank you so much for your help.",
+          "pt": "Muito obrigado pela ajuda.",
+          "variacoes": [
+            {
+              "en": "Thank you for the quick directions.",
+              "pt": "Obrigado pelas orientações rápidas."
+            },
+            {
+              "en": "Thank you for your time today.",
+              "pt": "Obrigado pelo seu tempo hoje."
+            }
+          ]
+        }
+      ],
+      "pergunta_volta": {
+        "pt": "Como você diria: 'Eu gostaria de encontrar o centro de convenções, por favor'?",
+        "en_modelo": "I'd like to find the convention center, please."
+      },
+      "desafio": [
+        {
+          "en": "How do you usually navigate in a new city?",
+          "pt": "Como você costuma se localizar em uma cidade nova?",
+          "en_modelo": "I use map apps on my phone."
+        },
+        {
+          "en": "Do you ask people for directions when you travel?",
+          "pt": "Você pede informações às pessoas quando viaja?",
+          "en_modelo": "Yes, I ask local people for help."
+        },
+        {
+          "en": "Where would you like to travel for work this year?",
+          "pt": "Para onde você gostaria de viajar a trabalho este ano?",
+          "en_modelo": "I'd like to visit suppliers in Germany."
+        },
+        {
+          "en": "Can I have your favorite city for trade shows?",
+          "pt": "Qual é a sua cidade favorita para feiras de negócios?",
+          "en_modelo": "I like Chicago for industrial expos."
+        }
+      ],
+      "dia": 3
+    },
+    {
+      "titulo": "No posto de gasolina",
+      "contexto": "Carlos entra na loja de conveniência do posto nos Estados Unidos para pagar o combustível do carro alugado.",
+      "cena": [
+        {
+          "falante": "A",
+          "en": "Good morning! How can I help you today?",
+          "pt": "Bom dia! Como posso te ajudar hoje?"
+        },
+        {
+          "falante": "B",
+          "en": "Hi! I'd like twenty dollars on pump four, please.",
+          "pt": "Oi! Eu gostaria de vinte dólares na bomba quatro, por favor."
+        },
+        {
+          "falante": "A",
+          "en": "Sure. Regular gas or premium?",
+          "pt": "Claro. Gasolina comum ou aditivada?"
+        },
+        {
+          "falante": "B",
+          "en": "Regular is fine for this rental car.",
+          "pt": "Comum está bom para este carro alugado."
+        },
+        {
+          "falante": "A",
+          "en": "Got it. Do you need anything else today?",
+          "pt": "Entendido. Você precisa de mais alguma coisa hoje?"
+        },
+        {
+          "falante": "B",
+          "en": "Can I have a bag of ice, please?",
+          "pt": "Você me vê um saco de gelo, por favor?"
+        },
+        {
+          "falante": "A",
+          "en": "Sure, the ice cooler is right outside.",
+          "pt": "Claro, o freezer de gelo fica bem ali fora."
+        },
+        {
+          "falante": "B",
+          "en": "Great, I need to keep some drinks cold.",
+          "pt": "Ótimo, preciso manter umas bebidas geladas."
+        },
+        {
+          "falante": "A",
+          "en": "Perfect. Do you want a receipt for this?",
+          "pt": "Perfeito. Você vai querer recibo disso?"
+        },
+        {
+          "falante": "B",
+          "en": "Yes, please. I need it for company expenses.",
+          "pt": "Sim, por favor. Preciso dele para o reembolso da empresa."
+        },
+        {
+          "falante": "A",
+          "en": "Here is your receipt and your change.",
+          "pt": "Aqui está o seu recibo e o seu troco."
+        },
+        {
+          "falante": "B",
+          "en": "Thanks! Have a great afternoon.",
+          "pt": "Obrigado! Tenha uma ótima tarde."
+        }
+      ],
+      "frases": [
+        {
+          "en": "I'd like twenty dollars on pump four, please.",
+          "pt": "Eu gostaria de vinte dólares na bomba quatro, por favor.",
+          "variacoes": [
+            {
+              "en": "I'd like thirty dollars on pump two, please.",
+              "pt": "Eu gostaria de trinta dólares na bomba dois, por favor."
+            },
+            {
+              "en": "I'd like fifty dollars on pump six, please.",
+              "pt": "Eu gostaria de cinquenta dólares na bomba seis, por favor."
+            }
+          ]
+        },
+        {
+          "en": "Regular is fine for this rental car.",
+          "pt": "Comum está bom para este carro alugado.",
+          "variacoes": [
+            {
+              "en": "Regular is fine for my truck.",
+              "pt": "Comum está bom para a minha caminhonete."
+            },
+            {
+              "en": "Premium is fine for this company car.",
+              "pt": "Aditivada está bom para este carro da empresa."
+            }
+          ]
+        },
+        {
+          "en": "Do you need anything else today?",
+          "pt": "Você precisa de mais alguma coisa hoje?",
+          "variacoes": [
+            {
+              "en": "Do you need any snacks today?",
+              "pt": "Você precisa de algum lanche hoje?"
+            },
+            {
+              "en": "Do you need a receipt today?",
+              "pt": "Você precisa de um recibo hoje?"
+            }
+          ]
+        },
+        {
+          "en": "Can I have a bag of ice, please?",
+          "pt": "Você me vê um saco de gelo, por favor?",
+          "variacoes": [
+            {
+              "en": "Can I have a bottle of water, please?",
+              "pt": "Você me vê uma garrafa de água, por favor?"
+            },
+            {
+              "en": "Can I have a pack of gum, please?",
+              "pt": "Você me vê um pacote de chiclete, por favor?"
+            }
+          ]
+        },
+        {
+          "en": "The ice cooler is right outside.",
+          "pt": "O freezer de gelo fica bem ali fora.",
+          "variacoes": [
+            {
+              "en": "The soda machine is right outside.",
+              "pt": "A máquina de refrigerante fica bem ali fora."
+            },
+            {
+              "en": "The air pump is right outside.",
+              "pt": "A bomba de ar fica bem ali fora."
+            }
+          ]
+        },
+        {
+          "en": "I need to keep some drinks cold.",
+          "pt": "Preciso manter umas bebidas geladas.",
+          "variacoes": [
+            {
+              "en": "I need to keep these samples cold.",
+              "pt": "Preciso manter estas amostras geladas."
+            },
+            {
+              "en": "I need to keep the lunch cold.",
+              "pt": "Preciso manter o almoço gelado."
+            }
+          ]
+        },
+        {
+          "en": "Do you want a receipt for this?",
+          "pt": "Você vai querer recibo disso?",
+          "variacoes": [
+            {
+              "en": "Do you want a bag for this?",
+              "pt": "Você vai querer sacola para isso?"
+            },
+            {
+              "en": "Do you want some change for this?",
+              "pt": "Você quer troco para isso?"
+            }
+          ]
+        },
+        {
+          "en": "I need it for company expenses.",
+          "pt": "Preciso dele para despesas da empresa.",
+          "variacoes": [
+            {
+              "en": "I need it for my manager.",
+              "pt": "Preciso dele para o meu gerente."
+            },
+            {
+              "en": "I need it for the accounting team.",
+              "pt": "Preciso dele para a equipe financeira."
+            }
+          ]
+        },
+        {
+          "en": "Here is your receipt and your change.",
+          "pt": "Aqui está o seu recibo e o seu troco.",
+          "variacoes": [
+            {
+              "en": "Here is your coffee and your change.",
+              "pt": "Aqui está o seu café e o seu troco."
+            },
+            {
+              "en": "Here is your key and your receipt.",
+              "pt": "Aqui está a sua chave e o seu recibo."
+            }
+          ]
+        },
+        {
+          "en": "Have a great afternoon.",
+          "pt": "Tenha uma ótima tarde.",
+          "variacoes": [
+            {
+              "en": "Have a great weekend.",
+              "pt": "Tenha um ótimo fim de semana."
+            },
+            {
+              "en": "Have a great trip.",
+              "pt": "Tenha uma ótima viagem."
+            }
+          ]
+        }
+      ],
+      "pergunta_volta": {
+        "pt": "Como você diria: 'Eu gostaria de trinta dólares na bomba dois, por favor'?",
+        "en_modelo": "I'd like thirty dollars on pump two, please."
+      },
+      "desafio": [
+        {
+          "en": "Do you usually drive a rental car on business trips?",
+          "pt": "Você costuma dirigir carro alugado em viagens a trabalho?",
+          "en_modelo": "Yes, I usually drive a rental car."
+        },
+        {
+          "en": "What kind of gas does your car take?",
+          "pt": "Que tipo de gasolina o seu carro usa?",
+          "en_modelo": "It takes regular gas."
+        },
+        {
+          "en": "Do you always ask for a receipt at the gas station?",
+          "pt": "Você sempre pede recibo no posto de gasolina?",
+          "en_modelo": "Yes, I need it for company expenses."
+        },
+        {
+          "en": "Can I have your payment method, card or cash?",
+          "pt": "Qual é a sua forma de pagamento, cartão ou dinheiro?",
+          "en_modelo": "I'd like to pay with a credit card, please."
+        }
+      ],
+      "dia": 4
+    }
+  ]
+}
